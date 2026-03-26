@@ -31,7 +31,7 @@ ${form.message}
     `;
 
     const encoded = encodeURIComponent(text);
-    window.open(`https://wa.me/6281925000001?text=${encoded}`, "_blank");
+    window.open(`https://wa.me/628192500001?text=${encoded}`, "_blank");
   };
 
   return (
