@@ -86,7 +86,7 @@ export default function HomePage() {
     {
       name: "BANGKIT MAHANANTIYO, S.H., M.H.",
       role: isID ? "Managing Partner" : "Managing Partner",
-      image: "/bangkit.JPG",
+      image: "/bangkit.jpg",
     },
     {
       name: "SONNY HENDRAWAN, S.H.",
