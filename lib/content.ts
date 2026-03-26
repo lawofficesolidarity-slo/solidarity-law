@@ -12,7 +12,7 @@ As a trusted strategic partner, we are committed to providing professional, resp
         {
           name: "BANGKIT MAHANANTIYO, S.H., M.H.",
           role: "Managing Partner",
-          image: "/bangkit.JPG",
+          image: "/bangkit.jpg",
           bio: `Bangkit Mahanantiyo, S.H., M.H. is the Managing Partner as well as the Founder of Solidarity Law Office. He earned his Bachelor of Law degree from Soegijapranata Catholic University Semarang and his Master of Law degree from Diponegoro University Semarang, while further strengthening his qualifications through various professional legal education and training programs. He has also been officially sworn in as an Advocate before the High Court of Semarang.
 
 Throughout his professional career, he has built extensive experience in handling a broad range of legal matters, both through litigation and non-litigation mechanisms, while providing legal services to both individual and corporate clients. Prior to establishing Solidarity Law Office, he served as a Public Defender at LBH Keadilan Bogor Raya, worked as an Expert Staff Member for the PAN-PSI Faction of the Semarang City Regional House of Representatives from 2019 to 2024, and later served as Chairman of the Regional Executive Board of PSI Semarang City for the 2024/2026 period.
@@ -75,7 +75,7 @@ Sebagai mitra strategis, kami berkomitmen untuk memberikan layanan hukum yang pr
         {
           name: "BANGKIT MAHANANTIYO, S.H., M.H.",
           role: "Managing Partner",
-          image: "/bangkit.JPG",
+          image: "/bangkit.jpg",
           bio: `Bangkit Mahanantiyo, S.H., M.H adalah Managing Partner sekaligus Pendiri pada Solidarity Law Office yang menempuh pendidikan Sarjana Hukum di Universitas Katolik Soegijapranata Semarang dan meraih gelar Magister Hukum dari Universitas Diponegoro Semarang, serta melengkapi kualifikasinya melalui berbagai program pendidikan dan pelatihan profesional di bidang hukum. Ia juga telah resmi disumpah sebagai Advokat pada Pengadilan Tinggi Semarang.
 
 Dalam karier profesionalnya, ia telah memiliki pengalaman luas dalam menangani berbagai perkara, baik melalui jalur litigasi maupun non-litigasi, serta memberikan layanan hukum kepada klien dari kalangan individu maupun korporasi. Sebelum mendirikan Solidarity Law Office, ia telah berkiprah sebagai Pembela Umum di LBH Keadilan Bogor Raya, pernah menjabat sebagai Tenaga Ahli Fraksi PAN-PSI DPRD Kota Semarang pada tahun 2019 s/d 2024, dan puncaknya pernah menjabat sebagai Ketua DPD PSI Kota Semarang pada periode 2024/2026.

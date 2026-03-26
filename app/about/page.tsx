@@ -35,7 +35,7 @@ export default function AboutPage() {
           <div>
             <div className="overflow-hidden rounded-[2rem] border border-white/10 shadow-2xl">
               <img
-                src="/bangkit.JPG"
+                src="/bangkit.jpg"
                 alt="Bangkit Mahanantiyo"
                 className="h-[500px] w-full object-cover object-top"
               />
