@@ -43,19 +43,19 @@ His areas of focus include employment law, civil law, criminal law, business law
 
       paralegals: [
         {
-          name: "BANG ROY",
+          name: "DODI RANGGA BAYU SETYAWAN",
           image: "/paralegal-1.jpg",
         },
         {
-          name: "BANG DODIT",
+          name: "AHMAD ZUHDI",
           image: "/paralegal-2.jpg",
         },
         {
-          name: "BANG SAPROL",
+          name: "ROY SUSILO",
           image: "/paralegal-3.jpg",
         },
         {
-          name: "BANG BLEK",
+          name: "SLAMET MULYONO",
           image: "/paralegal-4.jpg",
         },
       ],
@@ -106,19 +106,19 @@ Dengan fokus keahlian pada hukum ketenagakerjaan, hukum perdata, hukum pidana, h
 
       paralegals: [
         {
-          name: "BANG ROY",
+          name: "DODI RANGGA BAYU SETYAWAN",
           image: "/paralegal-1.jpg",
         },
         {
-          name: "BANG DODIT",
+          name: "AHMAD ZUHDI",
           image: "/paralegal-2.jpg",
         },
         {
-          name: "BANG SAPROL",
+          name: "ROY SUSILO",
           image: "/paralegal-3.jpg",
         },
         {
-          name: "BANG BLEK",
+          name: "SLAMET MULYONO",
           image: "/paralegal-4.jpg",
         },
       ],
