@@ -26,3 +26,9 @@ export default function RootLayout({
     </html>
   );
 }
+
+export const metadata = {
+  verification: {
+    google: "Rz-qbJHxNeeO0qNzQua-InTXCCd0YNTr5NLMlvOQVS4",
+  },
+};
