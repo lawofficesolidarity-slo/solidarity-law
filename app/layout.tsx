@@ -6,7 +6,10 @@ import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
   title: "Solidarity Law Office",
-  description: "Defending Your Rights Relentlessly",
+  description: "Solidarity Law Office adalah kantor pengacara di Semarang yang menyediakan jasa konsultasi hukum, litigasi, dan layanan legal profesional untuk individu dan perusahaan dengan pendekatan terpercaya dan strategis.",
+  verification: {
+    google: "Rz-qbJHxNeeO0qNzQua-InTXCCd0YNTr5NLMlvOQVS4",
+  },
 };
 
 export default function RootLayout({
@@ -26,9 +29,3 @@ export default function RootLayout({
     </html>
   );
 }
-
-export const metadata = {
-  verification: {
-    google: "Rz-qbJHxNeeO0qNzQua-InTXCCd0YNTr5NLMlvOQVS4",
-  },
-};
